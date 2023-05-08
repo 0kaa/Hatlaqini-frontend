@@ -43,7 +43,7 @@ export default {
 
   // Axios module configuration (https://go.nuxtjs.dev/config-axios)
   axios: {
-    baseURL: "https://hatlaqini-back.herokuapp.com/"
+    baseURL: "https://hatlaqini.onrender.com/"
   },
 
   auth: {
